@@ -1,3 +1,5 @@
+The model building done in this repository is inspired from https://github.com/ZONG0004/MacroHFT.git
+
 Dataset available at https://drive.google.com/drive/folders/1EjlEv57XID0stzUhedlZh-xRQgcdj6Xi?usp=drive_link 
 You need access for availing the dataset,
 Do it take permission of the creator....
