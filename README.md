@@ -11,6 +11,8 @@ file structure-
 after setting up the file structure only run the jupyter notebook....
 training and testing results are bad as the model was run on cpu...
 use gpu 
+
+
 Some recomended changes in the code-
 
 
