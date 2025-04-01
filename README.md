@@ -9,7 +9,10 @@ file structure-
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/d4dcbda7-d3b2-4304-88c9-7e5bc76e3637" />
 
 after setting up the file structure only run the jupyter notebook....
+
+
 training and testing results are bad as the model was run on cpu...
+
 use gpu 
 
 
