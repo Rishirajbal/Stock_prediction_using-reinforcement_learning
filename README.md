@@ -11,8 +11,15 @@ file structure-
 after setting up the file structure only run the jupyter notebook....
 training and testing results are bad as the model was run on cpu...
 use gpu 
-Some recomended changes in the code-batch size should be increased to 64 or 128
+Some recomended changes in the code-
+
+
+batch size should be increased to 64 or 128
+
+
 episodes to 1000
+
+
 and use the full dataset..                                                                                                                                                                                                    
 
 
