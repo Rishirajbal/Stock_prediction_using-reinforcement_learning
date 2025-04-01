@@ -2,7 +2,7 @@ The model building done in this repository is inspired from https://github.com/Z
 
 Dataset available at https://drive.google.com/drive/folders/1EjlEv57XID0stzUhedlZh-xRQgcdj6Xi?usp=drive_link 
 You need access for availing the dataset,
-Do it take permission of the creator....
+Do take permission from the creator....
 
 file structure-
 
