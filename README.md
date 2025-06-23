@@ -1,4 +1,4 @@
-** Note: This README was created with the assistance of AI to provide a comprehensive and professional documentation for the repository. The AI helped identify missing components in the original repository and created additional files and documentation to ensure a complete and functional  workflow.ALL the code has been done by the repository owner that is https://github.com/Rishirajbal with the assistance of deepseeck .
+* Note: This README was created with the assistance of AI to provide a comprehensive and professional documentation for the repository. The AI helped identify missing components in the original repository and created additional files and documentation to ensure a complete and functional  workflow.ALL the code has been done by the repository owner that is https://github.com/Rishirajbal with the assistance of deepseeck .
 
 # MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading
 
