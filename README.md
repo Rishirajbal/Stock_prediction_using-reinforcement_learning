@@ -1,3 +1,5 @@
+** Note: This README was created with the assistance of AI to provide a comprehensive and professional documentation for the repository. The AI helped identify missing components in the original repository and created additional files and documentation to ensure a complete and functional  workflow.ALL the code has been done by the repository owner that is https://github.com/Rishirajbal with the assistance of deepseeck .
+
 # MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading
 
 This repository contains the implementation of the KDD 2024 paper ["MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading"](https://arxiv.org/abs/2406.14537). The project leverages advanced reinforcement learning techniques to optimize trading strategies in high-frequency trading environments.
@@ -213,9 +215,3 @@ This README was created using an advanced AI assistant (OpenHands) that was conn
 - Markdown rendering with GitHub-flavored syntax support
 
 The AI analyzed the codebase structure, examined implementation details, and generated comprehensive documentation while preserving critical elements from the original README.
-
-## Feedback
-
-Please provide feedback to make this project even better.
-
-HAPPY CODING!!!!!
